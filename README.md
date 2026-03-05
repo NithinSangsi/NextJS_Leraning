@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NithinSangsi/MaterialUI_React_Library/blob/932f00adab8d27ece263e480e4bd90f47c8efb66/MUI_logo.png" alt="MUI Logo" width="250" height="250"/>
+  <img src="https://github.com/NithinSangsi/NextJS_Leraning/blob/7ca128e92cf167ad10ccc344f0f6fec7b2396eed/NJS.png" alt="NextJS_Logo" width="250" height="250"/>
 </p>
 
 <h1 align="center">
