@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://github.com/NithinSangsi/MaterialUI_React_Library/blob/932f00adab8d27ece263e480e4bd90f47c8efb66/MUI_logo.png" alt="MUI Logo" width="250" height="250"/>
+</p>
+
+<h1 align="center">
+   What is NextJS
+</h1>
+
+The React Framework for the Web.
+Next.js is an open-source full-stack React framework that provides a structured approach and built-in features for building high-performance, production-ready web applications.
+
+
+
 # 🛒 Next.js E-Commerce Practice Project
 
 ## 📌 Introduction
